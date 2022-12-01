@@ -1,5 +1,5 @@
 # MLB Pitchers Clustering and Expected Run Value Prediction Model
-The datasets used in this project were too large to be uploaded to GitHub. Please download the entire `data` file from [here](https://drive.google.com/drive/folders/1k0Zs1J9dhEeZBnzbh3Mtv4GgUWBMGtit?usp=sharing), and place it outside the working directory of the notebooks, like this:
+Please download the entire `data` file from [here](https://drive.google.com/drive/folders/1k0Zs1J9dhEeZBnzbh3Mtv4GgUWBMGtit?usp=sharing), and place it outside the working directory of the notebooks, like this:
 
 1. data
    1. dataset1
